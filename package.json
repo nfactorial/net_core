@@ -1,0 +1,23 @@
+{
+  "name": "@nfactorial/net_core",
+  "version": "0.0.1",
+  "description": "Core network functionality for game server framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfactorial/net_core.git"
+  },
+  "author": "nfactorial",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfactorial/net_core/issues"
+  },
+  "homepage": "https://github.com/nfactorial/net_core#readme",
+  "dependencies": {
+    "@nfactorial/game_state_js": "0.0.7",
+    "sockjs": "^0.3.17"
+  }
+}

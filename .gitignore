@@ -1,0 +1,9 @@
+#
+node_modules
+npm-debug.log
+
+# Mac cache information
+.DS_Store
+
+# WebStorm IDE settings are local only
+.idea
