@@ -1,6 +1,6 @@
 {
   "name": "@nfactorial/net_core",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Core network functionality for game server framework.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/nfactorial/net_core#readme",
   "dependencies": {
-    "@nfactorial/game_state_js": "0.0.7",
+    "@nfactorial/game_state_js": "0.0.81",
     "sockjs": "^0.3.17"
   }
 }
